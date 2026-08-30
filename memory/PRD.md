@@ -45,7 +45,12 @@ Build a premium, standalone B2B digital product catalog in ONE SINGLE HTML FILE 
 - Remaining gallery slots (back, close-up, lifestyle) still placeholders — keys productN_2/3/4.
 
 ## Pending User Input
-- WhatsApp number, email, website, Instagram, address still placeholders in catalogConfig.
+- Website and Instagram still placeholders in catalogConfig.
+
+## Contact (live since 2026-07)
+- WhatsApp: +62 853 7300 5507 (wa.me/6285373005507 with pre-filled inquiry message)
+- Email: lestarinusantaracentra@gmail.com (Request Product Information button = mailto)
+- Address: Jln. Swadaya Lingkungan II Kelurahan Sinaksak Kec. Tapian Dolok Kab. Simalungun
 
 ## Verified
 - Desktop: cover, nav, all 4 products/prices, detail, lightbox open/close, comparison, contact, back cover

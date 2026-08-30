@@ -37,9 +37,15 @@ Build a premium, standalone B2B digital product catalog in ONE SINGLE HTML FILE 
 - Mobile responsive layouts (stacked, compact nav, icon-only WA button)
 - Elegant labeled image placeholders (no fake stock/product photos); contact placeholders [ADD ...]
 
+## Photos (2026-07)
+- User uploaded 4 real packaging photos; embedded as base64 data URIs directly into
+  index.html (fully offline/shareable, ~1MB file):
+  product1/cover = 1 kg powder bag, product2 = 100 pcs sachet multipack,
+  product3 = 350 ml liquid bottle, product4 = 200 ml squeeze bottle.
+- Remaining gallery slots (back, close-up, lifestyle) still placeholders — keys productN_2/3/4.
+
 ## Pending User Input
-- User said they will upload actual packaging photos — first upload attempt did NOT arrive
-  (get_assets returned none). Photo slots remain placeholders until photos are re-attached.
+- WhatsApp number, email, website, Instagram, address still placeholders in catalogConfig.
 
 ## Verified
 - Desktop: cover, nav, all 4 products/prices, detail, lightbox open/close, comparison, contact, back cover

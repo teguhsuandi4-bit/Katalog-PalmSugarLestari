@@ -43,6 +43,8 @@ Build a premium, standalone B2B digital product catalog in ONE SINGLE HTML FILE 
   product1/cover = 1 kg powder bag, product2 = 100 pcs sachet multipack,
   product3 = 350 ml liquid bottle, product4 = 200 ml squeeze bottle.
 - Remaining gallery slots (back, close-up, lifestyle) still placeholders — keys productN_2/3/4.
+- 2026-07: thumbnail gallery row removed per owner request — each product shows ONE main image;
+  lightbox now opens the main image only (no prev/next arrows).
 
 ## Pending User Input
 - Website and Instagram still placeholders in catalogConfig.
